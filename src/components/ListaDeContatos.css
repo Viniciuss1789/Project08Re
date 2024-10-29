@@ -1,0 +1,25 @@
+.body{
+    background-color: blueviolet;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 550px;
+}
+
+h2{
+    text-align: center;
+
+}
+
+.input1{
+    margin: 10px;
+}
+
+.input2{
+    margin: 10px;
+}
+
+.botao{
+    margin: 10px;
+}
